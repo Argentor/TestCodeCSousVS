@@ -8,6 +8,9 @@ static int FctAddition(int nombre1, int nombre2)
 
 int main()
 {
+    // Uniquemtnt pour test GIT
+    printf("Création d'une ligne pour GIT\n");
+
     printf("---------------------------------------------------------------------\n");
     printf("Tableau \n");
 
