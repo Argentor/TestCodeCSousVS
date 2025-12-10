@@ -1,0 +1,8 @@
+
+*.slnx
+
+TestC/.vs/
+
+TestC/TestC/
+
+TestC/x64/
