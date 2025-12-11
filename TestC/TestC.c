@@ -9,7 +9,7 @@ static int FctAddition(int nombre1, int nombre2)
 int main()
 {
     // Uniquement pour test GIT
-    printf("-----------  Test 4 -----------\n");
+    printf("-----------  Test 5 -----------\n");
 
     printf("---------------------------------------------------------------------\n");
     printf("Tableau \n");
